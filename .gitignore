@@ -14,3 +14,5 @@ mlruns/
 # Temporary files
 *.log
 .DS_Store
+# Trained machine learning models
+models/*.pkl
