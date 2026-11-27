@@ -1,0 +1,18 @@
+Timestamp,Filename,Raw_Pixel_Prediction,HOG_Prediction
+2026-11-26 12:18:31,boot image.png,Pullover,Bag
+2026-11-26 12:19:15,boot blavk.jpg,Sandal,Bag
+2026-11-26 12:26:45,boot blavk.jpg,Sandal,Bag
+2026-11-26 12:28:55,boot blavk.jpg,Sandal,Bag
+2026-11-26 15:37:12,boot blavk.jpg,Sandal,Bag
+2026-11-26 16:06:46,9_Ankle_boot.png,Sandal,Ankle boot
+2026-11-26 16:35:45,9_Ankle_boot.png,Ankle boot,Ankle boot
+2026-11-26 16:38:49,0_T-shirt_top.png,T-shirt/top,T-shirt/top
+2026-11-26 16:41:49,1_Trouser.png,Trouser,Trouser
+2026-11-26 16:42:06,2_Pullover.png,Pullover,Pullover
+2026-11-26 16:42:23,3_Dress.png,Dress,Dress
+2026-11-26 16:42:44,4_Coat.png,Coat,Coat
+2026-11-26 16:43:02,5_Sandal.png,Sandal,Sandal
+2026-11-26 16:43:22,6_Shirt.png,Shirt,T-shirt/top
+2026-11-26 16:46:52,7_Sneaker.png,Sneaker,Sneaker
+2026-11-26 16:47:08,8_Bag.png,Bag,Bag
+2026-11-26 16:47:23,9_Ankle_boot.png,Ankle boot,Ankle boot

@@ -1,0 +1,16 @@
+# Python virtual environment
+venv/
+.env/
+__pycache__/
+*.pyc
+
+# Secrets
+.env
+.streamlit/secrets.toml
+
+# MLflow local tracking files
+mlruns/
+
+# Temporary files
+*.log
+.DS_Store
